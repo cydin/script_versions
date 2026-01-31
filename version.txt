@@ -1,3 +1,4 @@
 hud_system:1.4.0
 core_system:2.3
-pvp_system:2.0.0
+pvp_system:4.1.0
+no_finisher:1.1.0
