@@ -1,7 +1,7 @@
 {
   "x_vip": {
     "version": "4.1.0",
-    "changelog": "- Initial Release"
+    "changelog": "- Added new function for vip entrance(effect, song)\n- Improved performance\n- Rewrite bridge for all framework\n- Rewrite for drift, nametag, backfire, weaponskin, ped system"
   },
   "hud_system": {
     "version": "1.4.0",
