@@ -1,10 +1,27 @@
 {
-  "pvp_scripts": {
-    "version": "1.3.1",
-    "changelog": "- Fixed exploit in zone\n- Improved performance\n- Added ox_lib notification support"
+  "x_vip": {
+    "version": "4.1.0",
+    "changelog": "- Initial Release"
   },
   "hud_system": {
     "version": "1.4.0",
+    "changelog": "- Initial Release"
+  },
+  "core_system": {
+    "version": "2.3.0",
+    "changelog": "- Initial Release"
+  },
+  "pvp_system": {
+    "version": "4.1.0",
+    "changelog": "- Initial Release"
+  },
+
+  "pvp_scripts": {
+    "version": "1.3.0",
+    "changelog": "- Initial Release"
+  },
+  "no_finisher": {
+    "version": "1.1.0",
     "changelog": "- Initial Release"
   }
 }
