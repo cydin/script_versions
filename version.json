@@ -1,6 +1,6 @@
 {
   "x_vip": {
-    "version": "5.4.0",
+    "version": "5.5.1",
     "changelog": "- Rewrite and refactor all file including config\n- Added new client side weather change\n- Added new function for vip entrance(effect, song)\n- Improved performance\n- Rewrite bridge for all framework\n- Rewrite for drift, nametag, backfire, weaponskin, ped system"
   },
   "hud_system": {
